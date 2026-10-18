@@ -5,8 +5,7 @@ title: About Me
 # About Me
 
 <!-- ============================================================
-     INSTRUCTIONS: Replace placeholder text below with your info.
-     To use a Google Drive profile photo, see the image section.
+  HI! my name is Pema Zuk Yangsyel from grade 7 who loves exploring when though i am not good at it. I really really want to improve my skills in technology and want to be a better person everyday.
      ============================================================ -->
 
 <div class="profile-section" markdown>
