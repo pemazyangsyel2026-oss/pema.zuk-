@@ -25,7 +25,7 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## pema zuk yangsyel
+## pema zuk yangsyel.
 
 **Title / Role** — student
 
