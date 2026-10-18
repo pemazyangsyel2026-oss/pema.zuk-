@@ -29,7 +29,7 @@ title: About Me
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _I'm human enough to care. Beast enough to confront.
 
 A short paragraph about yourself. Describe who you are, what you're passionate about,
 and what drives you. Keep it personal and authentic — this is your space!
